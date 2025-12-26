@@ -1,0 +1,240 @@
+{
+  "info": {
+    "name": "TMX Platform Full-Pack Tests",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "token",
+      "value": ""
+    },
+    {
+      "key": "tmxId",
+      "value": ""
+    }
+  ],
+  "item": [
+    {
+      "name": "Health",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://localhost:3000/health",
+          "host": [
+            "http://localhost:3000"
+          ],
+          "path": [
+            "health"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Hello",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://localhost:3000/api/hello",
+          "host": [
+            "http://localhost:3000"
+          ],
+          "path": [
+            "api",
+            "hello"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Register",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"username\": \"demo\", \"password\": \"demo\"}"
+        },
+        "url": {
+          "raw": "http://localhost:3000/api/auth/register",
+          "host": [
+            "http://localhost:3000"
+          ],
+          "path": [
+            "api",
+            "auth",
+            "register"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Login",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"username\": \"demo\", \"password\": \"demo\"}"
+        },
+        "url": {
+          "raw": "http://localhost:3000/api/auth/login",
+          "host": [
+            "http://localhost:3000"
+          ],
+          "path": [
+            "api",
+            "auth",
+            "login"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Me",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "url": {
+          "raw": "http://localhost:3000/api/auth/me",
+          "host": [
+            "http://localhost:3000"
+          ],
+          "path": [
+            "api",
+            "auth",
+            "me"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Upload TMX",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "url": {
+          "raw": "http://localhost:3000/api/tmx/upload",
+          "host": [
+            "http://localhost:3000"
+          ],
+          "path": [
+            "api",
+            "tmx",
+            "upload"
+          ]
+        },
+        "body": {
+          "mode": "formdata",
+          "formdata": [
+            {
+              "key": "tmx",
+              "type": "file",
+              "src": [
+                "sample.tmx"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get TMX",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "url": {
+          "raw": "http://localhost:3000/api/tmx/{{tmxId}}",
+          "host": [
+            "http://localhost:3000"
+          ],
+          "path": [
+            "api",
+            "tmx",
+            "{{tmxId}}"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Update TU",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "url": {
+          "raw": "http://localhost:3000/api/tmx/{{tmxId}}/update",
+          "host": [
+            "http://localhost:3000"
+          ],
+          "path": [
+            "api",
+            "tmx",
+            "{{tmxId}}",
+            "update"
+          ]
+        },
+        "body": {
+          "mode": "raw",
+          "raw": "{\"tuIndex\": 0, \"lang\": \"pt-BR\", \"text\": \"Ol\\u00e1, universo!\"}"
+        }
+      }
+    },
+    {
+      "name": "Export TMX",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "url": {
+          "raw": "http://localhost:3000/api/tmx/{{tmxId}}/export",
+          "host": [
+            "http://localhost:3000"
+          ],
+          "path": [
+            "api",
+            "tmx",
+            "{{tmxId}}",
+            "export"
+          ]
+        }
+      }
+    }
+  ]
+}

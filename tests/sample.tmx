@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="SampleGenerator" creationtoolversion="1.0" segtype="sentence" adminlang="en-US" srclang="en-US" datatype="PlainText" />
+  <body>
+    <tu>
+      <tuv xml:lang="en-US"><seg>Hello, world!</seg></tuv>
+      <tuv xml:lang="pt-BR"><seg>Olá, mundo!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US"><seg>How are you?</seg></tuv>
+      <tuv xml:lang="pt-BR"><seg>Como você está?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US"><seg>Thank you!</seg></tuv>
+      <tuv xml:lang="pt-BR"><seg>Obrigado!</seg></tuv>
+    </tu>
+  </body>
+</tmx>

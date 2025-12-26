@@ -1,0 +1,35 @@
+### Login
+POST http://localhost:3000/api/auth/login
+Content-Type: application/json
+
+{
+  "username": "demo",
+  "password": "demo"
+}
+
+### Upload (set Authorization: Bearer {{token}})
+POST http://localhost:3000/api/tmx/upload
+Authorization: Bearer {{token}}
+Content-Type: multipart/form-data; boundary=WebKitFormBoundary7MA4YWxkTrZu0gW
+
+--WebKitFormBoundary7MA4YWxkTrZu0gW
+Content-Disposition: form-data; name="tmx"; filename="sample.tmx"
+Content-Type: application/xml
+
+<@ ./sample.tmx
+--WebKitFormBoundary7MA4YWxkTrZu0gW--
+
+### Update TU
+POST http://localhost:3000/api/tmx/{{tmxId}}/update
+Authorization: Bearer {{token}}
+Content-Type: application/json
+
+{
+  "tuIndex": 0,
+  "lang": "pt-BR",
+  "text": "Olá, universo!"
+}
+
+### Export
+GET http://localhost:3000/api/tmx/{{tmxId}}/export
+Authorization: Bearer {{token}}
