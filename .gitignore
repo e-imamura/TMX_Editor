@@ -1,0 +1,10 @@
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Artefatos locais
+*.zip
+
+# Node (por precaução)
+node_modules/

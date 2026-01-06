@@ -1,0 +1,686 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-US" srclang="en-US" creationdate="20260106T141414Z" creationid="ARGOS\edgard.imamura">
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">Enovis_Marketing_en-US_de-DE</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+  </header>
+  <body>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">MachineTranslation</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-US">
+        <seg>Adobe InDesign 21.0 (Macintosh)</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>Adobe InDesign 21.0 (Macintosh)</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20250430T194234Z" creationid="ARGOS\edgard.imamura" changedate="20250430T194234Z" changeid="ARGOS\edgard.imamura" lastusagedate="20250430T194234Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">156802297437049604, -357018865116948765</prop>
+      <prop type="x-ContextContent">Adobe InDesign 21.0 (Macintosh) |  | Adobe InDesign 21.0 (Macintosh) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-US">
+        <seg>Adobe PDF Library 18.0</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>Adobe PDF Library 18.0</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">-112826541771683426, 6539691592002278047</prop>
+      <prop type="x-ContextContent">Adobe PDF Library 18.0 |  | Adobe PDF Library 18.0 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>KNOW THE ENOVIS CODE:</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>KENNEN SIE DEN ENOVIS KODEX:</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">2220563687405489671, 8739230436425159467</prop>
+      <prop type="x-ContextContent">KNOW THE ENOVIS CODE: |  | KENNEN SIE DEN ENOVIS KODEX: | </prop>
+      <prop type="x-Origin">MachineTranslation</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>Guiding Principles &amp; Standards</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>Leitprinzipien und Standards</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">8652911752735051139, 2680256692294236603</prop>
+      <prop type="x-ContextContent">Guiding Principles &amp; Standards |  | Leitprinzipien und Standards | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-header-footer</prop>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="1" type="55" x="1" /><bpt i="2" type="52" x="2" />VIEW ENOVIS CODE OF CONDUCT<ept i="2" />	<ept i="1" /><bpt i="3" type="58" x="3" />MKT00-14721 Rev A<ept i="3" /></seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg><bpt i="1" type="55" x="1" /><bpt i="2" type="52" x="2" />ENOVIS VERHALTENSKODEX ANSEHEN<ept i="2" />	<ept i="1" /><bpt i="3" type="58" x="3" />MKT00-14721 Rev. A<ept i="3" /></seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180410T181626Z" creationid="ARGOS\edgard.imamura" changedate="20240622T135944Z" changeid="ARGOS\edgard.imamura" lastusagedate="20240622T135944Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">5111464103089953854, 8997487612944161566</prop>
+      <prop type="x-ContextContent">VIEW ENOVIS CODE OF CONDUCT	MKT00-14721 Rev A | AgYAAQEBAQI1NQEAAQICAQI1MgEbAgIBAjUyAQECAQECNTUBAAEDAwECNTgBEQIDAQI1OAE= | ENOVIS VERHALTENSKODEX ANSEHEN	MKT00-14721 Rev. A | AgYAAQEBAQI1NQEAAQICAQI1MgEeAgIBAjUyAQECAQECNTUBAAEDAwECNTgBEgIDAQI1OAE=</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-US">
+        <seg>PRINCIPLE 1:</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>GRUNDSATZ 1:</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">3245556291144546626, 8150165676297084015</prop>
+      <prop type="x-ContextContent">PRINCIPLE 1: |  | GRUNDSATZ 1: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-US">
+        <seg>Foster an Open Culture in Which Concerns Can Be Raised Without Fear of Retaliation</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>Fördern Sie eine offene Unternehmenskultur, in der Bedenken ohne Angst vor Vergeltungsmaßnahmen geäußert werden können.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">2498832970070238605, -888850568849254937</prop>
+      <prop type="x-ContextContent">Foster an Open Culture in Which Concerns Can Be Raised Without Fear of Retaliation |  | Fördern Sie eine offene Unternehmenskultur, in der Bedenken ohne Angst vor Vergeltungsmaßnahmen geäußert werden können. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>SPEAK UP</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>SAGEN SIE IHRE MEINUNG</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">3379769547535643, -4783458270199750608</prop>
+      <prop type="x-ContextContent">SPEAK UP |  | SAGEN SIE IHRE MEINUNG | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>Raise Questions and Report Concerns to Your<bpt i="1" type="305" x="1" /> <ept i="1" />Manager, HRBP, Legal, or Compliance</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>Stellen Sie Fragen und melden Sie Bedenken Ihrem<bpt i="1" type="305" x="1" /> <ept i="1" />Vorgesetzten, HRBP, der Rechtsabteilung oder der Compliance-Abteilung.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">-1957112064112688872, 3717389788427312906</prop>
+      <prop type="x-ContextContent">Raise Questions and Report Concerns to Your Manager, HRBP, Legal, or Compliance | AgIrAQEBAQMzMDUBAQIBAQMzMDUB | Stellen Sie Fragen und melden Sie Bedenken Ihrem Vorgesetzten, HRBP, der Rechtsabteilung oder der Compliance-Abteilung. | AgIwAQEBAQMzMDUBAQIBAQMzMDUB</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>ETHICSPOINT HOTLINE</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>ETHICSPOINT-HOTLINE</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">6770514905810964240, 6971777269334823075</prop>
+      <prop type="x-ContextContent">ETHICSPOINT HOTLINE |  | ETHICSPOINT-HOTLINE | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>Concerns Can Also Be Reported Openly or Anonymously via Enovis’ <bpt i="1" type="317" x="1" />EthicsPoint Hotline<ept i="1" /></seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>Bedenken können auch offen oder anonym über die <bpt i="1" type="317" x="1" />EthicsPoint-Hotline<ept i="1" /> von Enovis gemeldet werden.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">3957661316773074245, -6909590500757795594</prop>
+      <prop type="x-ContextContent">Concerns Can Also Be Reported Openly or Anonymously via Enovis’ EthicsPoint Hotline | AgJAAQEBAQMzMTcBEwIBAQMzMTcB | Bedenken können auch offen oder anonym über die EthicsPoint-Hotline von Enovis gemeldet werden. | AgIwAQEBAQMzMTcBEwIBAQMzMTcB</prop>
+      <prop type="x-Origin">MachineTranslation</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>YOU ARE PROTECTED</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>SIE SIND GESCHÜTZT</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">-4037485202359094930, -1626703442123970672</prop>
+      <prop type="x-ContextContent">YOU ARE PROTECTED |  | SIE SIND GESCHÜTZT | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>Anyone Who Reports Concerns in Good Faith is Protected from Retaliation</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>Jeder, der in gutem Glauben Bedenken meldet, ist vor Vergeltungsmaßnahmen geschützt.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180408T181621Z" creationid="ARGOS\edgard.imamura" changedate="20180408T182321Z" changeid="ARGOS\edgard.imamura" lastusagedate="20180408T182321Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">8283767508223619321, -5968264685836157369</prop>
+      <prop type="x-ContextContent">Anyone Who Reports Concerns in Good Faith is Protected from Retaliation |  | Jeder, der in gutem Glauben Bedenken meldet, ist vor Vergeltungsmaßnahmen geschützt. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-US">
+        <seg>PRINCIPLE 2:</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>GRUNDSATZ 2:</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">3245556291144546657, 8150165676297084046</prop>
+      <prop type="x-ContextContent">PRINCIPLE 2: |  | GRUNDSATZ 2: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-US">
+        <seg>Act in the Best Interest of the Company</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>Handeln Sie im besten Interesse des Unternehmens.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">8942377705024228819, 6265207778178938550</prop>
+      <prop type="x-ContextContent">Act in the Best Interest of the Company |  | Handeln Sie im besten Interesse des Unternehmens. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>DELIVER SAFE, HIGH-QUALITY PRODUCTS</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>SICHERE, HOCHWERTIGE PRODUKTE LIEFERN</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">-6797714803978642112, -4814427568590077651</prop>
+      <prop type="x-ContextContent">DELIVER SAFE, HIGH-QUALITY PRODUCTS |  | SICHERE, HOCHWERTIGE PRODUKTE LIEFERN | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>Follow Enovis’ Regulatory and Quality Assurance Systems and Processes</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>Befolgen Sie die Regulierungs- und Qualitätssicherungssysteme und -prozesse von Enovis.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">7843249919287536303, -2008409370614805002</prop>
+      <prop type="x-ContextContent">Follow Enovis’ Regulatory and Quality Assurance Systems and Processes |  | Befolgen Sie die Regulierungs- und Qualitätssicherungssysteme und -prozesse von Enovis. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>STAY OBJECTIVE</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>OBJEKTIV BLEIBEN</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">-8617562916885256471, 4693964390384632091</prop>
+      <prop type="x-ContextContent">STAY OBJECTIVE |  | OBJEKTIV BLEIBEN | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>Disclose and Avoid Conflicts of Interest that Could<bpt i="1" type="368" x="1" /> <ept i="1" />Compromise Your Judgment</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>Interessenkonflikte offenlegen und vermeiden, die Ihr Urteilsvermögen<bpt i="1" type="368" x="1" /> <ept i="1" />beeinträchtigen könnten.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">5306174874645640516, -422225661336456655</prop>
+      <prop type="x-ContextContent">Disclose and Avoid Conflicts of Interest that Could Compromise Your Judgment | AgIzAQEBAQMzNjgBAQIBAQMzNjgB | Interessenkonflikte offenlegen und vermeiden, die Ihr Urteilsvermögen beeinträchtigen könnten. | AgJFAQEBAQMzNjgBAQIBAQMzNjgB</prop>
+      <prop type="x-Origin">MachineTranslation</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>SAFEGUARD CONFIDENTIAL INFORMATION</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>VERTRAULICHE INFORMATIONEN SCHÜTZEN</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">7189428579634046212, -3556968620788188841</prop>
+      <prop type="x-ContextContent">SAFEGUARD CONFIDENTIAL INFORMATION |  | VERTRAULICHE INFORMATIONEN SCHÜTZEN | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>Never Use or Share Non-Public Information for Stock Trading or Non-Approved Purposes</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>Verwenden oder geben Sie niemals nicht öffentliche Informationen für den Aktienhandel oder nicht genehmigte Zwecke weiter.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">-4550804021146857811, 2791758017527190519</prop>
+      <prop type="x-ContextContent">Never Use or Share Non-Public Information for Stock Trading or Non-Approved Purposes |  | Verwenden oder geben Sie niemals nicht öffentliche Informationen für den Aktienhandel oder nicht genehmigte Zwecke weiter. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>USE ASSETS &amp; SYSTEMS RESPONSIBLY</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>VERMÖGENSWERTE UND SYSTEME VERANTWORTUNGSBEWUSST VERWENDEN</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">-139924649781871838, -8921339742772527963</prop>
+      <prop type="x-ContextContent">USE ASSETS &amp; SYSTEMS RESPONSIBLY |  | VERMÖGENSWERTE UND SYSTEME VERANTWORTUNGSBEWUSST VERWENDEN | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>Protect Enovis Assets and Use Assets and Information Systems for Business Purposes</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>Schützen Sie die Vermögenswerte von Enovis und verwenden Sie Vermögenswerte und Informationssysteme für geschäftliche Zwecke.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">-8354143992338103777, 8688479394419987516</prop>
+      <prop type="x-ContextContent">Protect Enovis Assets and Use Assets and Information Systems for Business Purposes |  | Schützen Sie die Vermögenswerte von Enovis und verwenden Sie Vermögenswerte und Informationssysteme für geschäftliche Zwecke. | </prop>
+      <prop type="x-Origin">MachineTranslation</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>MAINTAIN ACCURATE RECORDS</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>GENAUE AUFZEICHNUNGEN FÜHREN</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">518267661559723243, -2862496378872152235</prop>
+      <prop type="x-ContextContent">MAINTAIN ACCURATE RECORDS |  | GENAUE AUFZEICHNUNGEN FÜHREN | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>Create Accurate Records and Preserve Records in Accordance with Enovis Policy</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>Erstellen Sie genaue Aufzeichnungen und bewahren Sie diese gemäß den Richtlinien von Enovis auf.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">729491245769102204, -5217988174387397565</prop>
+      <prop type="x-ContextContent">Create Accurate Records and Preserve Records in Accordance with Enovis Policy |  | Erstellen Sie genaue Aufzeichnungen und bewahren Sie diese gemäß den Richtlinien von Enovis auf. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>PROTECT PRIVACY</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>PRIVATSPHÄRE SCHÜTZEN</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">2116881304379129085, 8576666663126622875</prop>
+      <prop type="x-ContextContent">PROTECT PRIVACY |  | PRIVATSPHÄRE SCHÜTZEN | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>Keep Enovis Team Member, Patient, and Customer<bpt i="1" type="410" x="1" /> <ept i="1" />Data Private and Secure</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>Behandeln Sie die Daten<bpt i="1" type="410" x="1" /> <ept i="1" />von Enovis-Mitarbeitern, Patienten und Kunden vertraulich und sicher.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180302T161839Z" creationid="ARGOS\edgard.imamura" changedate="20180302T161839Z" changeid="ARGOS\edgard.imamura" lastusagedate="20180302T161839Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">7725927459532279815, 6894638334455717417</prop>
+      <prop type="x-ContextContent">Keep Enovis Team Member, Patient, and Customer Data Private and Secure | AgIuAQEBAQM0MTABAQIBAQM0MTAB | Behandeln Sie die Daten von Enovis-Mitarbeitern, Patienten und Kunden vertraulich und sicher. | AgIXAQEBAQM0MTABAQIBAQM0MTAB</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-US">
+        <seg>PRINCIPLE 3:</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>GRUNDSATZ 3:</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">3245556291144546688, 8150165676297084077</prop>
+      <prop type="x-ContextContent">PRINCIPLE 3: |  | GRUNDSATZ 3: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-US">
+        <seg>Our People Are Our Greatest Assets</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>Unsere Mitarbeiter sind unser größtes Kapital</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">-8758299091858873083, -5706402685004962676</prop>
+      <prop type="x-ContextContent">Our People Are Our Greatest Assets |  | Unsere Mitarbeiter sind unser größtes Kapital | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>FOSTER RESPECT &amp; INCLUSION</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>RESPEKT UND INKLUSION FÖRDERN</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">2291379197235323692, -3276865010070168199</prop>
+      <prop type="x-ContextContent">FOSTER RESPECT &amp; INCLUSION |  | RESPEKT UND INKLUSION FÖRDERN | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>Create a Workplace Free of Harassment, Intimidation, and Discrimination</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>Schaffen Sie einen Arbeitsplatz, der frei von Belästigung, Einschüchterung und Diskriminierung ist.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">-7187654559489560662, 7284174381527388709</prop>
+      <prop type="x-ContextContent">Create a Workplace Free of Harassment, Intimidation, and Discrimination |  | Schaffen Sie einen Arbeitsplatz, der frei von Belästigung, Einschüchterung und Diskriminierung ist. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>STAY SAFE &amp; HEALTHY</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>SICHER UND GESUND BLEIBEN</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">-2378854851529718294, -3664404896064779748</prop>
+      <prop type="x-ContextContent">STAY SAFE &amp; HEALTHY |  | SICHER UND GESUND BLEIBEN | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>Follow Health and Safety Rules, and Promptly Report Any Hazards or Injuries</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>Befolgen Sie die Gesundheits- und Sicherheitsvorschriften und melden Sie Gefahren oder Verletzungen unverzüglich.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">4615479671405589085, -2985843786903793639</prop>
+      <prop type="x-ContextContent">Follow Health and Safety Rules, and Promptly Report Any Hazards or Injuries |  | Befolgen Sie die Gesundheits- und Sicherheitsvorschriften und melden Sie Gefahren oder Verletzungen unverzüglich. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>SAY NO TO SUBSTANCE ABUSE</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>NEIN ZU DROGENMISSBRAUCH SAGEN</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">-8806060241375344951, -8168287641620980307</prop>
+      <prop type="x-ContextContent">SAY NO TO SUBSTANCE ABUSE |  | NEIN ZU DROGENMISSBRAUCH SAGEN | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>Do Not Use Substances That Impair Your Ability to Perform Your Duties</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>Verwenden Sie keine Substanzen, die Ihre Fähigkeit zur Ausübung Ihrer Aufgaben beeinträchtigen.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20180410T181626Z" creationid="ARGOS\edgard.imamura" changedate="20240622T135944Z" changeid="ARGOS\edgard.imamura" lastusagedate="20240622T135944Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">-835792658122796165, -1793279015162425554</prop>
+      <prop type="x-ContextContent">Do Not Use Substances That Impair Your Ability to Perform Your Duties |  | Verwenden Sie keine Substanzen, die Ihre Fähigkeit zur Ausübung Ihrer Aufgaben beeinträchtigen. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-US">
+        <seg>PRINCIPLE 4:</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>GRUNDSATZ 4:</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">3245556291144546719, 8150165676297084108</prop>
+      <prop type="x-ContextContent">PRINCIPLE 4: |  | GRUNDSATZ 4: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-US">
+        <seg>Compete Fairly and Comply with Applicable Laws and Regulations</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>Fairer Wettbewerb und Einhaltung geltender Gesetze und Vorschriften</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">-3608096528329987495, -991025604076562124</prop>
+      <prop type="x-ContextContent">Compete Fairly and Comply with Applicable Laws and Regulations |  | Fairer Wettbewerb und Einhaltung geltender Gesetze und Vorschriften | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>CHAMPION FREE &amp; FAIR COMPETITION</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>FREIEN UND FAIREN WETTBEWERB FÖRDERN</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">1700637987918468219, 5858751100193959459</prop>
+      <prop type="x-ContextContent">CHAMPION FREE &amp; FAIR COMPETITION |  | FREIEN UND FAIREN WETTBEWERB FÖRDERN | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>Never Make Agreements that Restrict Prices, Territories, Customers, or Market Share</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>Schließen Sie niemals Vereinbarungen, die Preise, Gebiete, Kunden oder Marktanteile beschränken.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">-6197683183405691368, 5773100051264314950</prop>
+      <prop type="x-ContextContent">Never Make Agreements that Restrict Prices, Territories, Customers, or Market Share |  | Schließen Sie niemals Vereinbarungen, die Preise, Gebiete, Kunden oder Marktanteile beschränken. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>NO BRIBES OR IMPROPER BENEFITS</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>KEINE BESTECHUNGEN ODER UNANGEMESSENE VORTEILE</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">8183237329330190901, -2564875476797955682</prop>
+      <prop type="x-ContextContent">NO BRIBES OR IMPROPER BENEFITS |  | KEINE BESTECHUNGEN ODER UNANGEMESSENE VORTEILE | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>Never Offer or Provide Bribes or Anything of Value to Improperly Influence Business</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>Bieten oder gewähren Sie niemals Bestechungsgelder oder andere Wertgegenstände, um Geschäfte unangemessen zu beeinflussen.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">2001687053702135452, -7472879197061289663</prop>
+      <prop type="x-ContextContent">Never Offer or Provide Bribes or Anything of Value to Improperly Influence Business |  | Bieten oder gewähren Sie niemals Bestechungsgelder oder andere Wertgegenstände, um Geschäfte unangemessen zu beeinflussen. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>NO HCP GIFTS OR ENTERTAINMENT</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>KEINE GESCHENKE ODER BEWIRTSCHAFTUNGEN AN MEDIZINISCHES PERSONAL</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">-3046745192142739833, 7319983003685215470</prop>
+      <prop type="x-ContextContent">NO HCP GIFTS OR ENTERTAINMENT |  | KEINE GESCHENKE ODER BEWIRTSCHAFTUNGEN AN MEDIZINISCHES PERSONAL | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>Never Provide Gifts or Entertainment to HCPs, No<bpt i="1" type="548" x="1" /> <ept i="1" />Matter the Value or Reason</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>Bieten Sie medizinischem Personal niemals Geschenke oder Bewirtungen an, unabhängig<bpt i="1" type="548" x="1" /> <ept i="1" />vom Wert oder Grund.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">-2057249669989017132, -4900528951710875860</prop>
+      <prop type="x-ContextContent">Never Provide Gifts or Entertainment to HCPs, No Matter the Value or Reason | AgIwAQEBAQM1NDgBAQIBAQM1NDgB | Bieten Sie medizinischem Personal niemals Geschenke oder Bewirtungen an, unabhängig vom Wert oder Grund. | AgJTAQEBAQM1NDgBAQIBAQM1NDgB</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>COMPLY WITH GLOBAL TRADE LAWS</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>GLOBALE HANDELSRECHTE EINHALTEN</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">-3397255869378533938, 404411630255185652</prop>
+      <prop type="x-ContextContent">COMPLY WITH GLOBAL TRADE LAWS |  | GLOBALE HANDELSRECHTE EINHALTEN | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>Accurately Declare Imported Goods and Abide by Export Controls and Sanctions</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>Deklarieren Sie importierte Waren korrekt und halten Sie Exportkontrollen und Sanktionen ein.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">4435924319980037389, -5134814896741241560</prop>
+      <prop type="x-ContextContent">Accurately Declare Imported Goods and Abide by Export Controls and Sanctions |  | Deklarieren Sie importierte Waren korrekt und halten Sie Exportkontrollen und Sanktionen ein. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>PROTECT PEOPLE &amp; THE ENVIRONMENT</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>MENSCHEN UND UMWELT SCHÜTZEN</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">461748610363607139, -442264878353775352</prop>
+      <prop type="x-ContextContent">PROTECT PEOPLE &amp; THE ENVIRONMENT |  | MENSCHEN UND UMWELT SCHÜTZEN | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>Comply with Public Health and Safety Laws, and Operate Sustainably</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>Halten Sie Gesetze zum Schutz der öffentlichen Gesundheit und Sicherheit ein und wirtschaften Sie nachhaltig.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">-5963089449337871903, 2885666589022023978</prop>
+      <prop type="x-ContextContent">Comply with Public Health and Safety Laws, and Operate Sustainably |  | Halten Sie Gesetze zum Schutz der öffentlichen Gesundheit und Sicherheit ein und wirtschaften Sie nachhaltig. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>KEEP POLITICAL ACTIVITIES SEPARATE</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>POLITISCHE AKTIVITÄTEN TRENNEN</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260106T143144Z" creationid="ARGOS\edgard.imamura" changedate="20260106T143144Z" changeid="ARGOS\edgard.imamura" lastusagedate="20260106T143144Z">
+      <prop type="x-LastUsedBy">ARGOS\edgard.imamura</prop>
+      <prop type="x-Context">-391791680590595379, -11648412275890443</prop>
+      <prop type="x-ContextContent">KEEP POLITICAL ACTIVITIES SEPARATE |  | POLITISCHE AKTIVITÄTEN TRENNEN | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>Participate in Political Activities Independently and Never on Enovis’ Behalf</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>Nehmen Sie an politischen Aktivitäten unabhängig und niemals im Namen von Enovis teil.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

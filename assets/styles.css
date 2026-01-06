@@ -1,0 +1,16 @@
+
+body { font-family: system-ui, Arial, sans-serif; padding: 16px; }
+h1 { margin-top: 0; }
+.panel { border: 1px solid #ddd; padding: 12px; border-radius: 8px; }
+.dropzone {
+  border: 2px dashed #999; padding: 16px; margin-top: 8px; text-align: center; color: #666;
+}
+table { width: 100%; border-collapse: collapse; margin-top: 12px; }
+th, td { border-bottom: 1px solid #eee; padding: 8px; text-align: left; vertical-align: top; }
+th { background: #fafafa; border-bottom: 1px solid #ddd; }
+textarea { width: 100%; min-height: 48px; }
+.toolbar { display: flex; gap: 12px; align-items: center; margin: 12px 0; flex-wrap: wrap; }
+.strip { display: inline-flex; gap: 6px; align-items: center; }
+.muted { color: #777; }
+.small { font-size: 12px; }
+button { cursor: pointer; }

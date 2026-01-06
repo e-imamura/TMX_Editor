@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="Sample" srclang="en-US" datatype="PlainText"/>
+  <body>
+    <tu id="1">
+      <tuv xml:lang="en-US"><seg>Hello</seg></tuv>
+      <tuv xml:lang="pt-BR"><seg>Olá</seg></tuv>
+    </tu>
+    <tu id="2">
+      <tuv xml:lang="en-US"><seg>Thank you</seg></tuv>
+      <tuv xml:lang="pt-BR"><seg>Obrigado</seg></tuv>
+    </tu>
+  </body>
+</tmx>

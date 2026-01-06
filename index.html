@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>TMX Editor</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <h1>TMX Editor</h1>
+
+  <div class="panel">
+    <label>
+      Abrir TMX:
+      <input id="fileInput" type="file" accept=".tmx, text/xml, application/xml" />
+    </label>
+    <div id="dropzone" class="dropzone">Arraste e solte um arquivo TMX aqui</div>
+    <div id="fileInfo" class="muted small" style="margin-top:8px;"></div>
+  </div>
+
+  <div class="toolbar">
+    <button id="exportBtn" disabled>Exportar TMX</button>
+    <span id="status" class="muted"></span>
+  </div>
+
+  <table id="segmentsTable">
+    <thead>
+      <tr>
+        <th style="width:20px">ID</th>
+        <th style="width:300px">Source</th>
+        <th style="width:300px">Target</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
