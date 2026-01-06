@@ -88,7 +88,7 @@ function ensureids(doc) {
    Source = primeiro <tuv>; Target = segundo <tuv> */
 // =========================
 function renderTable() {
-  const tbody = document.querySelector('#segmentsTable tbody');
+  const tbody = document.querySelector('#Table tbody');
   if (!tbody) return;
   tbody.innerHTML = '';
   if (!state.tmxDoc) return;
