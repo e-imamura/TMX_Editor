@@ -1,6 +1,6 @@
 
 # TMX Editor
-Editor de TMX em HTML + JS puro.
+Editor de TMX em HTML + CSS + JS
 
 ## Funcionalidades
 - Abrir TMX via botão ou drag & drop
